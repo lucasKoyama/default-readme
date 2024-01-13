@@ -8,10 +8,6 @@ Think of the STAR + Hero Journey description for the entire README:
 4. Results: solutions developed, value brought to the company, and users.
 -->
 <!-- SITUATION / COMMON PROBLEM -->
-<p>
-  A brief description of the project.
-</p>
-
 <details>
   <summary>Summary</summary>
 
@@ -21,6 +17,9 @@ Think of the STAR + Hero Journey description for the entire README:
   4. [Results]()
   5. [Authors]()
 </details>
+<p>
+  A brief description of the project.
+</p>
 
 <a href="">
 🌐DEMO LIVE - Click here to check it out on the web!
