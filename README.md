@@ -19,6 +19,7 @@ Think of the STAR + Hero Journey description for the entire README:
   2. [Features & Challenges solved]()
   3. [Tools used]()
   4. [Results]()
+  5. [Authors]()
 </details>
 
 <a href="">
@@ -39,3 +40,4 @@ Think of the STAR + Hero Journey description for the entire README:
 
 ## Authors
 - [lucasKoyama](https://github.com/lucasKoyama)
+
