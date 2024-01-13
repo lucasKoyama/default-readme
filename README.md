@@ -1,5 +1,6 @@
-# Project Name
-## Overview
+# About <project_name>
+[an image of the project or gif]()
+
 A brief description of the project.
 Think of the STAR + Hero Journey description for the entire README:
 1. Situation: begin with the situation, what it aims to solve, and what the common problem is.
@@ -7,4 +8,8 @@ Think of the STAR + Hero Journey description for the entire README:
 3. Action: What did I do to solve the challenge?
 4. Results: solutions developed, value brought to the company, and users.
 
-[an image of the project or gif]()
+## Built with
+- skill badge 1
+- skill badge 1
+- skill badge 1
+
