@@ -37,3 +37,5 @@ Think of the STAR + Hero Journey description for the entire README:
 ## 📈 Results
 <!-- RESULTS / USAGES / HOW TO USE -->
 
+## Authors
+- [lucasKoyama](https://github.com/lucasKoyama)
